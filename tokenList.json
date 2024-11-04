@@ -11,15 +11,6 @@
   "keywords": ["BabyCateSwap", "default"],
   "tokens": [
     {
-      "name": "Baby Rats",
-      "symbol": "BABYRATS",
-      "address": "0x079c6Dc6b3B627E8eB07fa2e391B27d59Eb4000B",
-      "chainId": 56,
-      "decimals": 9,
-      "position": 1,
-      "logoURI": "https://github.com/OGGY-SWAP/tokenListSwap/blob/main/images/BabyRats%20Logo.png?raw=true"
-    },
-    {
       "name": "BabyCate",
       "symbol": "BabyCate",
       "address": "0x76B560b628F74BF192bE09F0449abef8e456BE79",
