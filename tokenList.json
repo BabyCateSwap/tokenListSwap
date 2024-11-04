@@ -20,15 +20,6 @@
       "logoURI": "/images/swap/logo-icon.png?v=1.2"
     },
     {
-      "name": "Trump Golden Cat",
-      "symbol": "TrumpCats",
-      "address": "0xA3cE999C506E1AaFCAF8D67ce57537842B71b96b",
-      "chainId": 56,
-      "decimals": 9,
-      "position": 2,
-      "logoURI": "/images/coins/TrumpCats.png"
-    },
-    {
       "name": "BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
